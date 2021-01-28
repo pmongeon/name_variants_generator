@@ -1,1 +1,1 @@
-# name_varians_generator
+# name_variants_generator
